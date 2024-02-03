@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Mahale</h1>
-<h3 align="center">A passionate full stack developer based in Mumbai, India</h3>
+<h3 align="center">A passionate full stack developer based in Mumbai, India. On my journey to become invincible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshmahale&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshmahale" /> </p>
 
